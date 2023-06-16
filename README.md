@@ -1,6 +1,6 @@
 🎓 - Analise e Desenvolvimento de Sistema 2/3
 
-Me chamo Gabriel Galvão e tenho 20 anos, no momento estou com foco em desenvolvimento utilizando <strong>Java</strong>
+Prazer, me chamo Gabriel Galvão e atualmente estou com foco no aprendizado em <strong>Java</strong>
 
 <br>
 
