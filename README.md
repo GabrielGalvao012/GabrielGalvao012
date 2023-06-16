@@ -7,7 +7,7 @@ Me chamo Gabriel Galvão e tenho 20 anos, no momento estou com foco em desenvolv
 <div align="center" style="display: flex;">
   <a href="https://github.com/luisfe1ipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gGalvao&show_icons=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfe1ipe&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gGalvao&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
     
  <br>
