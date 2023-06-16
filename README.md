@@ -6,8 +6,8 @@ Prazer, me chamo Gabriel Galvão e atualmente estou com foco no aprendizado em <
 
 <div align="center" style="display: flex;">
   <a href="https://github.com/luisfe1ipe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gGalvao&show_icons=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gGalvao&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGalvao012&show_icons=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGalvao012&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
     
  <br>
