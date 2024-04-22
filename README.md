@@ -1,11 +1,11 @@
-🎓 - Analise e Desenvolvimento de Sistema 2/3
+🎓 - Analise e Desenvolvimento de Sistema 3/3
 
-Prazer, me chamo Gabriel Galvão e atualmente estou com foco no aprendizado em <strong>Java</strong>
+Prazer, me chamo Gabriel Galvão e atualmente estou com foco no aprendizado em <strong>Python</strong>
 
 <br>
 
 <div align="center" style="display: flex;">
-  <a href="https://github.com/luisfe1ipe">
+  <a href="https://github.com/GabrielGalvao012">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGalvao012&show_icons=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGalvao012&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
